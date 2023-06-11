@@ -14,19 +14,22 @@ Output Praktikum 10: Pagination dan Pencarian
 
 ### 1. Pagination 1
 
-![1 login](https://github.com/rimapuji/praktikum9_pweb2/assets/118242692/7876481c-639e-429b-bfaa-fa796ab0001f)
+![page 1](https://github.com/rimapuji/praktikum10_pweb2/assets/118242692/bab09d48-fb40-4715-a0c3-71d3b3aa33ef)
+
 
 <hr>
 
 ### 2. Pagination 2
 
-![2 validasi](https://github.com/rimapuji/praktikum9_pweb2/assets/118242692/affbe559-12d7-425a-9550-a5365ce76112)
+![page 2](https://github.com/rimapuji/praktikum10_pweb2/assets/118242692/56f35db7-b45a-4916-8595-c9837eb57a74)
+
 
 <hr>
 
 ### 3. Search
 
-![3 adminartikel](https://github.com/rimapuji/praktikum9_pweb2/assets/118242692/a13e2a52-460c-41de-845d-883c8bbf9c6d)
+![search](https://github.com/rimapuji/praktikum10_pweb2/assets/118242692/d499b62a-5058-4d3f-a8be-1f95416667f6)
+
 
 <hr>
 
